@@ -1,5 +1,5 @@
 ## Don't forgot to checkout before get started   
-Live link: [https://truthquest.netlify.app/](url)
+Live link: [TruthQuest](https://truthquest.netlify.app/)
 
 
 # Getting Started with Create React App
